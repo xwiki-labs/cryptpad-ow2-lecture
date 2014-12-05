@@ -80,11 +80,13 @@
 ---
 # demo
 
-- http://192.168.168.218:3000/#test
+- https://cryptpad.fr/#seabeyond
 - This is not a very secure key but you can type it on your laptop :)
 
 ---
 # It ain't over
+
+- https://cryptpad.fr/#seabeyond
 
 --
 - Collaborative drawing
@@ -105,7 +107,6 @@
 
 
 - Questions?
-- Slides: https://github.com/cjdelisle/cryptpad-ow2
 - Source: https://github.com/cjdelisle/cryptpad
-
+- https://cryptpad.fr/#seabeyond
 
